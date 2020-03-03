@@ -221,8 +221,9 @@ export default {
     }
     
     .item {
-        border: 1px solid #000;
-        box-sizing: content-box
+        border: 1px solid #b6d8fc;
+        box-sizing: content-box;
+        background-color: #b6d8fc
     }
     
     .gray {
@@ -251,7 +252,7 @@ export default {
     } */
     
     .linehight {
-        background-color: aqua;
+        background-color: #c71319;
     }
     
     .wrapper {
